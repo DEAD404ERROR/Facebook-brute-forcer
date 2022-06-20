@@ -1,4 +1,4 @@
-# Facebook-BruteForceer
+# Facebook-BruteForcer
 ```
 Bruteforce attack, For educational purpose only
 ```
